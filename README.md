@@ -1,5 +1,5 @@
 # *Your Project Description*
-## *Sponsoring Company or Organization*
+## VCU College of Engineering
 ## *Short Project Description*
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
 Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
@@ -20,7 +20,7 @@ a better understanding of the problems you encountered during the development of
 - *Mentor's Name*  - *Company Affliation* - Mentor
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
 - *Faculty Advisor's Name* - *Department* - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- Kyle Vinod - Computer Science - Student Team Member
+- Ryan Ta - Computer Science - Student Team Member
+- Katie Baires - Computer Science - Student Team Member
+- Alexander Larios - Computer Science - Student Team Member
