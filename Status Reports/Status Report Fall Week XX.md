@@ -1,4 +1,4 @@
-# *CS 25-XXX Project Name*
+# *CS 25-332 Project Name*
 
 **Students' Names:**
 
