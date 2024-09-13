@@ -1,4 +1,4 @@
-# AI Personalized New Science
+# CS-25-332 AI Personalized New Science
 
 Project 332 
 Using AI and LLM's to organize and deliver personalized science to users.
