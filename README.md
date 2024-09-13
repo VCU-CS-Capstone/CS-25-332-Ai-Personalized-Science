@@ -1,12 +1,10 @@
 # CS-25-332 AI Personalized New Science
 
-# Project Description
-Rapid expansion of new knowledge makes it impossible for engineers or scientists to keep up to date with everything that is posted or published in their field of expertise. The project is focused on designing an AI solution based on Large Language Models that would scan and understand new literature in the background, in a way that is more in-depth than keyword-based or history-based recommendation systems, and alert the user about new information only if it is highly relevant to their interests. The project has the potential to improve skill retention among highly-trained experts.
+# *Rapid expansion of new knowledge makes it impossible for engineers or scientists to keep up to date with everything that is posted or published in their field of expertise. The project is focused on designing an AI solution based on Large Language Models that would scan and understand new literature in the background, in a way that is more in-depth than keyword-based or history-based recommendation systems, and alert the user about new information only if it is highly relevant to their interests. The project has the potential to improve skill retention among highly-trained experts.*
 
 ## *VCU College of Engineering*
 
-## Short Project Description
-This project has potential to kepe engineers and scientists up to date on their area of expertise. This is done by using AI and LLM's to organize and deliver personalized science to users that is more in-depth than manual searching and recommendations.
+## *This project has potential to kepe engineers and scientists up to date on their area of expertise. This is done by using AI and LLM's to organize and deliver personalized science to users that is more in-depth than manual searching and recommendations.*
 
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
 Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
