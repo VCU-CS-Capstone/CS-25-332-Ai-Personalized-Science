@@ -2,7 +2,7 @@
 
 ## *VCU College of Engineering*
 
-## *This project has potential to kepe engineers and scientists up to date on their area of expertise. This is done by using AI and LLM's to organize and deliver personalized science to users that is more in-depth than manual searching and recommendations.*
+## *This project has potential to keep engineers and scientists up to date on their area of expertise. This is done by using AI and LLM's to organize and deliver personalized science to users that is more in-depth than manual searching and recommendations.*
 
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
 Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
