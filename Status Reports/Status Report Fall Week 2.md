@@ -7,7 +7,7 @@
 **Faculty Advisor: Tom Arodz**
 
 ## 1) Accomplishments this week
-   - Started on the beginning sections of the Project Proposal
+   - Started on the beginning sections A and B of the Project Proposal
    - Met with our advisor and learned what resources to utilize
    - Discussed plans on how to approach the project
 
