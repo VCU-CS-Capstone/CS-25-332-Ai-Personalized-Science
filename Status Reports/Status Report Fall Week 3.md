@@ -1,4 +1,5 @@
 # *CS 25-332 AI Personalized New Science*
+9/22 - 9/28
 
 **Students' Names: Kyle Vinod, Ryan Ta, Katie Baires, and Alexander Larios**
 
@@ -7,7 +8,8 @@
 **Faculty Advisor: Tom Arodz**
 
 ## 1) Accomplishments this week
-   - Completed 
+   - Completed sections C, D, and E of the Project Proposal
+   - Began working on sections 
 
 ## 2) Milestones to be completed next week
    - Discuss with our mentor on what steps to take next for our project.
