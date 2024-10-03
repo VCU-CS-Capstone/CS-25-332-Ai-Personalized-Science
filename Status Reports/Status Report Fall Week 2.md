@@ -1,5 +1,7 @@
 # *CS 25-332 AI Personalized New Science*
 
+**Date: 9/15 - 9/21**
+
 **Students' Names: Kyle Vinod, Ryan Ta, Katie Baires, and Alexander Larios**
 
 **Mentor: Tom Arodz**
