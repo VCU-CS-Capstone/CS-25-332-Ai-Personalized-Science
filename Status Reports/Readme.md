@@ -15,12 +15,12 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 2 Status Report | Completing Project Proposal | Completed Sections A and B of Project Proposal | Making sure we're on time with our schedule |
 | Week 3 Status Report | Completing Project Proposal | Completed Sections C, D, and E of Project Proposal | Choosing what APIs and how we want final design to be |
 | Week 4 Status Report | Completing Project Proposal | Partially completed sections F, G, and H of Project Proposal | Figuring out how to complete our project designs |
-| Week 5 Status Report | | | |
-| Week 6 Status Report | | | |
-| Week 7 Status Report | | | |
-| Week 8 Status Report | | | |
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
+| Week 5 Status Report | Competing Project Proposal | Completed Project Proposal | Getting started with our designs |
+| Week 6 Status Report | Completing working design and Fall Design Poster | Partially completed back-end | Guidance on moving forward with coding |
+| Week 7 Status Report | Completing working design and Fall Design Poster | Back-end completed and displaying results | Completing front-end |
+| Week 8 Status Report | Completing working design and Fall Design Poster | Partially completed front-end | Displaying results on front-end |
+| Week 9 Status Report | Completing working design and Fall Design Poster | Not much progress made | Displaying results on front-end |
+| Week 10 Status Report | Completing working design and Fall Design Poster | Front-end and Fall Design Poster completed | Guidance for Preliminary Report |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
