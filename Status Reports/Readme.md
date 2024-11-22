@@ -12,7 +12,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
 | Week 1 Status Report | Setting the project github repo | Finished the setup for the github | Need guidance on what to work on next |
-| Week 2 Status Report | | | |
+| Week 2 Status Report | Completing Project Proposal | Partially completed Section A and B of Project Proposal | Making sure we're on time with our schedule |
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
