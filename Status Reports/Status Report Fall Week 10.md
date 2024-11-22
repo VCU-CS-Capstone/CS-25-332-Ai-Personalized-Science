@@ -11,6 +11,7 @@
 ## 1) Accomplishments this week
    - Connected back-end and front-end together properly
    - Front-end displaying article results
+   - Fall Design Poster completed
 
 ## 2) Milestones to be completed next week
    - Determining accuracy of articles and APIs
