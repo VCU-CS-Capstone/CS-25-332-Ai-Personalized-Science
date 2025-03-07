@@ -1,6 +1,6 @@
 # *CS 25-332 AI Personalized New Science*
 
-**Date: 1/12 - 1/18**
+**Date: 2/9 - 2/15**
 
 **Students' Names: Kyle Vinod, Ryan Ta, and Katie Baires**
 
@@ -9,12 +9,11 @@
 **Faculty Advisor: Tom Arodz**
 
 ## 1) Accomplishments this week ##
-   - Met together to plan out general timeline of the semester.
-   - Planned times to meet as a group and with our sponsor.
+   - Assigned roles on what tasks each member should focus on for AWS.
+   - Narrowed down options for what service to use to alert users.
 
 ## 2) Milestones to be completed next week ##
-   - Begin brainstorming ideas for what steps to take for our design. 
+   - None. 
 
 ## 3) Issues, problems or concerns ##
-   - Our group has one less member.
-   - Finding the next best step to take for our project.
+   - None.
