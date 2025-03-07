@@ -9,12 +9,11 @@
 **Faculty Advisor: Tom Arodz**
 
 ## 1) Accomplishments this week ##
-   - Met together to plan out general timeline of the semester.
-   - Planned times to meet as a group and with our sponsor.
+   - Completed the first assignment, team contract update.
+   - AWS has been setup for our project.
 
 ## 2) Milestones to be completed next week ##
-   - Begin brainstorming ideas for what steps to take for our design. 
+   - Continue working on implementing our project to AWS. 
 
 ## 3) Issues, problems or concerns ##
-   - Our group has one less member.
-   - Finding the next best step to take for our project.
+   - Figuring out what services to use through AWS.
