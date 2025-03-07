@@ -1,6 +1,6 @@
 # *CS 25-332 AI Personalized New Science*
 
-**Date: 1/12 - 1/18**
+**Date: 1/26 - 2/1**
 
 **Students' Names: Kyle Vinod, Ryan Ta, and Katie Baires**
 
