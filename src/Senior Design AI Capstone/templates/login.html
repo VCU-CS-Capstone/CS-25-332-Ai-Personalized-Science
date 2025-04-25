@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="static/styles.css">
+    <title>Login</title>
+</head>
+<body>
+
+    <div class="container">  <!-- Wrapper for form -->
+        <h2 class="word">Login</h2>
+        
+        <form action="/login" method="post">
+            <div>{{ msg }}</div>
+
+            <input class="textbox" type="text" name="userUsername" placeholder="Enter Username" required>
+            <input class="textbox" type="password" name="userPassword" placeholder="Enter Password" required>
+            
+            <button class="btn" type="submit">Login</button>
+        </form>
+
+        <p class="bottom">Don't have an account? <a href="/register">Register here</a></p>
+    </div>
+
+</body>
+</html>

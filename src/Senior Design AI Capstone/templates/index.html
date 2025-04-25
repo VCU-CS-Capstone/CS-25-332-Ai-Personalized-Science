@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article Recommendation</title>
+    <link rel="stylesheet" href="static/styles.css">
+</head>
+
+<body>
+    <div class="header">
+        <h1 class="word">Welcome, {{ session['username'] }}!</h1>
+    </div>
+
+    <div class="border">
+        <p class="word">You are now logged in.</p>
+        <a class="btn" href="/login">Logout</a>
+    </div>
+    
+    <h1>ScholarPing</h1>
+    <input type="text" id="query" placeholder="Enter your topic">
+    <button onclick="getRecommendations()">Get Recommendations</button>
+    <div id="recommendations"></div>
+
+    <script src="static/script.js"></script>
+</body>
+
+</html>
